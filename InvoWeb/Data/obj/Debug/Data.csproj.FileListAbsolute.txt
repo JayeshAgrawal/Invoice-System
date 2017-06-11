@@ -1,0 +1,9 @@
+K:\Users\OM\Desktop\InvoWeb\Data\bin\Debug\Data.dll
+K:\Users\OM\Desktop\InvoWeb\Data\bin\Debug\Data.pdb
+K:\Users\OM\Desktop\InvoWeb\Data\obj\Debug\Data.dll
+K:\Users\OM\Desktop\InvoWeb\Data\obj\Debug\Data.pdb
+E:\data\jayesh\invoice\z project\project\InvoWeb\Data\bin\Debug\Data.dll
+E:\data\jayesh\invoice\z project\project\InvoWeb\Data\bin\Debug\Data.pdb
+E:\data\jayesh\invoice\z project\project\InvoWeb\Data\obj\Debug\ResolveAssemblyReference.cache
+E:\data\jayesh\invoice\z project\project\InvoWeb\Data\obj\Debug\Data.dll
+E:\data\jayesh\invoice\z project\project\InvoWeb\Data\obj\Debug\Data.pdb
